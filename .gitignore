@@ -1,0 +1,16 @@
+
+
+*.exe
+*.out
+
+# Логи и кэши
+*.log
+*.cache
+
+# IDE
+*.vscode/
+*.idea/
+
+# Системные файлы
+thumbs.db
+.DS_Store
